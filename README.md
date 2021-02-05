@@ -1,5 +1,5 @@
 # CNN_kernel_conversion for CT images
-CNN caffe pre-trained network for converting between B30 and B70 and vice-versa
+CNN caffe pre-trained network for converting between B30 (1S1) and B70 (1L1) and vice-versa
 
 The credit for the CNN model goes to Choe et al (2019).
 The original github post with the source code and instructions can be found at https://github.com/leegaeun/CT_Kernel_Conversion [1]
