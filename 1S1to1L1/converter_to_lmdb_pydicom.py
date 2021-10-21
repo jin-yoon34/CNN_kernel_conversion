@@ -73,8 +73,8 @@ def _save_mean(mean, filename):
 #  Dataset list
 #############################################################
 """
-Examples of data lists when conversion from B10f to B70f image.
-1~8 are train data and 9~10 are test data.
+Examples of data lists when conversion from B30 to B70 image.
+1~9 are train data and 10 is test data.
 
 Converting from 1S1AABHS TO 1L1AABHS
 """
@@ -95,7 +95,7 @@ train_data_list = ["AABHS",
 "AACFM",
 "AACFO"]
 
-test_data_list = ["AACIF"]
+test_data_list = ["AACGA", "AACIF", "AACIK"]
 
 
 
